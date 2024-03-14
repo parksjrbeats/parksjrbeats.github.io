@@ -1,4 +1,18 @@
+.home-page ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.home-page ul li {
+  margin : 0;
+  padding: 0;
+  display: inline-block;
+}
 video {
   width: 100%;
   max-height: 100%;
+}
+.vid-page h1 {
+  display: none;
+  visibility: hidden;
 }

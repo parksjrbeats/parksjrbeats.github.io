@@ -1,6 +1,9 @@
 html, body {
   background-color: #282828;
 }
+body > h1, body > p {
+  color: #FFF;
+}
 .home-page ul {
   list-style-type: none;
   margin: 0;

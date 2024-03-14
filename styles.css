@@ -3,6 +3,7 @@ html, body {
 }
 body > h1, body > p {
   color: #FFF;
+  display: inline;
 }
 .home-page ul {
   list-style-type: none;
